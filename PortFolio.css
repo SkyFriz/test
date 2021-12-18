@@ -1,0 +1,108 @@
+.titre{
+    font-size:34px;
+    padding-left: 700px;
+    padding-right: 700px;
+    font-weight: bold;
+}
+.haut{
+    font-size:20px;
+}
+.page{
+    background-color: lightgray ;
+}
+header ul li p{
+    background-color: darkgray;
+    border:solid;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 25px;
+}
+header ul{
+    display: flex;
+    list-style: none;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+.text{
+    padding-left: 200px;
+}
+h1{
+    font-size: 50px;
+}
+.titre2{
+    text-decoration: underline;
+    font-weight: 1000;
+    font-size:30px
+}
+img{
+    border: solid;
+    margin-left: 250px;
+}
+.CV{
+    margin-left: 250px;
+    font-size:30px
+}
+footer{
+    background-color: darkgrey;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h2{
+    text-decoration: underline;
+    font-size: 40px;
+}
+footer{
+    margin-top: 50px;
+}
+footer ul{
+    list-style: none;
+}
+footer ul li{
+    font-size: 30px;
+}
+.fond{
+    background: linear-gradient(to bottom , white, grey);
+}
+.projetul{
+    list-style: none;
+}
+.projetulli{
+    padding-bottom: 10px;
+}
+.nav {
+    margin-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    width: 100px;
+    border-top-left-radius : 25px 25px;
+    border-top-right-radius : 25px 25px;
+    border-bottom-left-radius: 25px 25px;
+    border-bottom-right-radius: 25px 25px;
+    background-color: rgb(216, 135, 135);
+}
+.rectanglebleu {
+    margin-left: 450px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-top-left-radius : 100px 100px;
+    border-top-right-radius : 100px 100px;
+    border-bottom-left-radius: 100px 100px;
+    border-bottom-right-radius: 100px 100px;
+    background-color: rgb(126, 226, 226);
+}
+.rectGrandTitre{
+    font-size: 25px;
+}
+.rectCorpsDeTexte{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
